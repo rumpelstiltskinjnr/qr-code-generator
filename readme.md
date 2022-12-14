@@ -2,9 +2,20 @@
 
 Simple app to generate and download a QR code that can be used to share a link.
 
-[Live Demo](https://qrcodes.tech)
+### [Live Site](https://rumpelstiltskinjnr.github.io/qr-code-generator/)
 
 <img src="img/screen.png">
+
+## This is a QR Code Generator
+
+In this project HTML,CSS and vanilla JAVASCRIPT was used.
+
+By, the end of the project you will have a clear understanding of how to work with PARALLEX EFFECT.
+
+set up:
+-download or clone ```this repository``` for the project file main directory.
+-open file ```with any code editor of your choice``` for the project.
+-run ```Open with Live Server``` for the complete preview of this project.
 
 ### MIT License
 
